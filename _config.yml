@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Jeremy Lacomis
-# description:      'Jeremy Lacomis homepage.'
-# baseurl:          /~jlacomis
+description:      "Jeremy Lacomis' homepage."
+baseurl:          ""
 
 author:
   name:           'Jeremy Lacomis'
@@ -15,11 +15,7 @@ author:
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll/scholar
+plugins: ['jekyll/scholar']
 
 # Custom vars
 # version:            3.4.1
@@ -43,3 +39,5 @@ scholar:
   sort_by: year, month
   group_order: descending
   bibliography_template: bib_template
+
+# exclude: "list of files to exclude"
