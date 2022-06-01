@@ -1,0 +1,16 @@
+<nav id="sidebar-icon-links">
+  {% if site.github.repo %}
+  <a id="github-link"
+     class="icon" title="GitHub" aria-label="GitHub"
+     href="{{ site.github.repo }}">
+    {% include svg/github.svg %}
+  </a>
+  {% endif %}
+  {% if site.twitter %}
+  <a id="twitter-link"
+     class="icon" title="Twitter" aria-label="Twitter"
+     href="{{ site.twitter }}">
+    {% include svg/twitter.svg %}
+  </a>
+  {% endif %}
+</nav>

@@ -1,0 +1,30 @@
+<div id="sidebar">
+  <header>
+    <{% if page.layout == "index" %}h3{% else %}div{% endif %} class="site-title">
+      <a href="{{ site.baseurl }}/">
+        {% unless page.url == "/" %}
+          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+        {% endunless %}
+        {{ site.title }}
+      </a>
+    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+    <p class="lead">{{ site.description }}</p>
+  </header>
+
+  <img src="{{ site.baseurl }}/assets/img/new-photo-small.jpg" alt="IMAGE">
+
+  {% include sidebar-nav-links.html %}
+
+  {% if site.version %}
+    <span class="site-version">Currently v{{ site.version }}</span>
+  {% endif %}
+
+    {% include sidebar-icon-links.html %}
+    <br>
+    <span class="email-info">
+      <i class="far fa-envelope"></i> - jlacomis@cmu.edu
+    </span>
+    <span class="office">
+      <i class="far fa-building"></i> - TCS 221
+    </span>
+</div>

@@ -1,0 +1,4 @@
+exclude
+deploy.sh
+publish.sh
+unpublish.sh
