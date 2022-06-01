@@ -14,6 +14,5 @@ group :jekyll_plugins do
   gem "jekyll-scholar"
   gem "jekyll-paginate"
   gem "jekyll-gist"
-  gem "jekyll-redirect-form"
   gem "github-pages"
 end
