@@ -17,6 +17,6 @@ and reverse-engineering of software.
 
 I have a B.A., Computer Science from the [University of
 Virginia](http://www.virginia.edu/) and an A.S., Computer Science from [Piedmont
-Virginia Community College](https://www.pvcc.edu/). Before grad school I had
+Virginia Community College](https://www.pvcc.edu/). Before school I had
 various jobs in fields as diverse as restaurant management, book binding, and
 MRI service.
