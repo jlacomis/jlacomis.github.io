@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Publications and Talks
 permalink: /publications/
 sidebar_link: true
