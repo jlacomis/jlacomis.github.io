@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Jeremy Lacomis
-description:      "Jeremy Lacomis' homepage."
+# description:      "Jeremy Lacomis' homepage."
 baseurl:          ""
 
 author:
