@@ -4,9 +4,6 @@ gem "jekyll"
 
 gem "kramdown-parser-gfm"
 
-gem "rake"
-gem "rake-jekyll"
-
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
