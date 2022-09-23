@@ -6,11 +6,11 @@ title: About
 About Me
 ========
 
-I am a Ph. D. student in the [Institute for Software
-Research](http://www.isri.cmu.edu) at [Carnegie Mellon
-University](https://www.cmu.edu/). I am a member of two research groups:
-[STRUDEL](https://cmustrudel.github.io/), with my co-advisor [Bogdan
-Vasilescu](https://bvasiles.github.io/) and
+I am a Ph. D. student in the [Software and Societal Systems
+Department](https://s3d.cmu.edu) (formerly the Institute for Software Research)
+at [Carnegie Mellon University](https://www.cmu.edu/). I am a member of two
+research groups: [STRUDEL](https://cmustrudel.github.io/), with my co-advisor
+[Bogdan Vasilescu](https://bvasiles.github.io/) and
 [squaresLab](https://squareslab.github.io/), with my co-advisor [Claire Le
 Goues](https://clairelegoues.com/). I am interested in maintenance, debugging,
 and reverse-engineering of software.
