@@ -6,17 +6,19 @@ title: About
 About Me
 ========
 
-I am a Ph. D. student in the [Software and Societal Systems
+I am a Postdoctoral Teaching Fellow in the [Software and Societal Systems
 Department](https://s3d.cmu.edu) (formerly the Institute for Software Research)
-at [Carnegie Mellon University](https://www.cmu.edu/). I am a member of two
-research groups: [STRUDEL](https://cmustrudel.github.io/), with my co-advisor
-[Bogdan Vasilescu](https://bvasiles.github.io/) and
+at [Carnegie Mellon University](https://www.cmu.edu/).
+
+I earned my Ph.D. in Software Engineering from CMU as a member of two research
+groups: [STRUDEL](https://cmustrudel.github.io/), with my co-advisor [Bogdan
+Vasilescu](https://bvasiles.github.io/), and
 [squaresLab](https://squareslab.github.io/), with my co-advisor [Claire Le
 Goues](https://clairelegoues.com/). I am interested in maintenance, debugging,
 and reverse-engineering of software.
 
-I have a B.A., Computer Science from the [University of
-Virginia](http://www.virginia.edu/) and an A.S., Computer Science from [Piedmont
-Virginia Community College](https://www.pvcc.edu/). Before grad school I had
-various jobs in fields as diverse as restaurant management, book binding, and
-MRI service.
+Before my Ph.D., I earned a B.A. in Computer Science from the [University of
+Virginia](http://www.virginia.edu/) and an A.S. in Computer Science from
+[Piedmont Virginia Community College](https://www.pvcc.edu/). Before grad school
+I had various jobs in fields as diverse as restaurant management, book binding,
+and MRI service.
