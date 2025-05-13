@@ -23,4 +23,4 @@ Virginia](http://www.virginia.edu/) and an A.S. in Computer Science from
 I had various jobs in fields as diverse as restaurant management, book binding,
 and MRI service.
 
-I am currently on the job market in Pittsburgh, PA!
+*I am currently on the job market in Pittsburgh, PA!*
