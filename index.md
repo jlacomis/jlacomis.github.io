@@ -6,7 +6,7 @@ title: About
 About Me
 ========
 
-*I am currently on the job market in Pittsburgh, PA!* I was formerly a Postdoctoral Teaching Fellow in the [Software and Societal Systems
+I am currently a Software Engineer at DoorDash. Before then, I was a Postdoctoral Teaching Fellow in the [Software and Societal Systems
 Department](https://s3d.cmu.edu) (formerly the Institute for Software Research)
 at [Carnegie Mellon University](https://www.cmu.edu/). I am interested in software security and the (automated) maintenance, debugging,
 and reverse-engineering of software. I have extensive experience using machine-learning models to automatically generate and modify existing codebases.
